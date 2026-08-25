@@ -6,7 +6,8 @@
 
 ## 🎖️ Авторство и благодарности (Credits)
 
-- **Автор оригинальной концепции и методологии:** **Маргулан Сейсембаев (Margulan Seisembayev)**.
+- **Автор оригинальной концепции и методологии:** **[Маргулан Сейсембаев (Margulan Seisembayev)](https://github.com/margulans)**
+- **Оригинальный репозиторий проекта:** **[https://github.com/margulans/vibebar](https://github.com/margulans/vibebar)**
 - **Оригинальная платформа:** macOS (на базе SwiftBar + Superwhisper / Macrowhisper).
 - **Данный проект:** Адаптация, компиляция и портирование под Linux (открытый стек Faster-Whisper, Python, AyatanaAppIndicator, Gtk.Clipboard).
 
